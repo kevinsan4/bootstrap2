@@ -1,0 +1,19 @@
+.galeria img{
+    width: 100%;
+}
+
+.card-size{
+    width: 250px; /* ancho */
+    height: 200px; /* alto */
+    display: flex;
+}
+
+.row{
+width: 250px;
+height: 120px;
+}
+
+.pe{
+    text-align: left;
+    display: flex;
+}
