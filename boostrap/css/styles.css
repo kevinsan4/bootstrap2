@@ -4,8 +4,12 @@
 
 .card-size{
     width: 250px; /* ancho */
-    height: 200px; /* alto */
-    display: flex;
+    height: 400px; /* alto */
+    
+}
+.card-body{
+    width: 100px;
+    height: 100px;
 }
 
 .row{
@@ -16,4 +20,33 @@ height: 120px;
 .pe{
     text-align: left;
     display: flex;
+}
+
+.btn{
+    height: 200%;
+}
+
+nav ul{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+nav ul li{
+    text-align: right;
+    list-style: none;
+    margin-top: 5px;
+
+    
+}
+
+.iniciar{
+    text-align: right;
+    list-style: none;
+    margin-top: 5px;
+    font-size: 25px;
+}
+
+#papa: {
+
 }
