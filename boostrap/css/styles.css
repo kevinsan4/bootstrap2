@@ -1,52 +1,46 @@
-.galeria img{
-    width: 100%;
+/* Estilos adicionales */
+body {
+    padding-top: 56px;
 }
 
-.card-size{
-    width: 250px; /* ancho */
-    height: 400px; /* alto */
-    
-}
-.card-body{
-    width: 100px;
-    height: 100px;
+.container {
+    max-width: 1000px;
 }
 
-.row{
-width: 250px;
-height: 120px;
+.card {
+    margin-bottom: 20px;
+    background-color: rgb(184, 212, 205 );
+    padding: 5px;    
 }
 
-.pe{
-    text-align: left;
-    display: flex;
-}
-
-.btn{
-    height: 200%;
-}
-
-nav ul{
-    display: flex;
-    justify-content: space-around;
-}
-
-
-nav ul li{
-    text-align: right;
-    list-style: none;
+/* Estilos personalizados para la barra de navegación */
+.navbar {
+   
     margin-top: 5px;
-
-    
+    height: 70px;
 }
 
-.iniciar{
-    text-align: right;
-    list-style: none;
-    margin-top: 5px;
-    font-size: 25px;
+.logo{
+height: 60px;
 }
 
-#papa: {
-
+body{
+    background-color: ;
+    padding:  20px;
 }
+
+/* Estilos para la lista de productos */
+.card-img-top {
+    max-height: 200px;
+    object-fit: cover;
+    width: 200px;
+}
+
+.nav-tabs{
+  margin-top: 10px, 30px, 0px;
+  background-color: aqua;
+}
+
+
+
+
