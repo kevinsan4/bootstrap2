@@ -1,4 +1,4 @@
-/* Estilos adicionales */
+
 body {
     padding-top: 56px;
 }
@@ -13,7 +13,6 @@ body {
     padding: 5px;    
 }
 
-/* Estilos personalizados para la barra de navegación */
 .navbar {
    
     margin-top: 5px;
@@ -29,7 +28,6 @@ body{
     padding:  20px;
 }
 
-/* Estilos para la lista de productos */
 .card-img-top {
     max-height: 200px;
     object-fit: cover;
